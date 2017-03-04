@@ -3,6 +3,7 @@
 ##  LockFile function ##
 # example:
 #   main() {
+#       source LockFile.sh
 #       LockFile create
 #       RunScriptStuff
 #       LockFile remove
